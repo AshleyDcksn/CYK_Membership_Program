@@ -119,7 +119,7 @@
             // tbData1
             // 
             this.tbData1.Location = new System.Drawing.Point(142, 51);
-            this.tbData1.MaxLength = 2;
+            this.tbData1.MaxLength = 10;
             this.tbData1.Name = "tbData1";
             this.tbData1.Size = new System.Drawing.Size(100, 20);
             this.tbData1.TabIndex = 2;
@@ -127,7 +127,7 @@
             // tbData3
             // 
             this.tbData3.Location = new System.Drawing.Point(142, 125);
-            this.tbData3.MaxLength = 2;
+            this.tbData3.MaxLength = 10;
             this.tbData3.Name = "tbData3";
             this.tbData3.Size = new System.Drawing.Size(100, 20);
             this.tbData3.TabIndex = 6;
@@ -135,7 +135,7 @@
             // tbData4
             // 
             this.tbData4.Location = new System.Drawing.Point(142, 166);
-            this.tbData4.MaxLength = 2;
+            this.tbData4.MaxLength = 10;
             this.tbData4.Name = "tbData4";
             this.tbData4.Size = new System.Drawing.Size(100, 20);
             this.tbData4.TabIndex = 8;
@@ -143,7 +143,7 @@
             // tbData5
             // 
             this.tbData5.Location = new System.Drawing.Point(142, 203);
-            this.tbData5.MaxLength = 2;
+            this.tbData5.MaxLength = 10;
             this.tbData5.Name = "tbData5";
             this.tbData5.Size = new System.Drawing.Size(100, 20);
             this.tbData5.TabIndex = 10;
@@ -151,7 +151,7 @@
             // tbData2
             // 
             this.tbData2.Location = new System.Drawing.Point(142, 89);
-            this.tbData2.MaxLength = 2;
+            this.tbData2.MaxLength = 10;
             this.tbData2.Name = "tbData2";
             this.tbData2.Size = new System.Drawing.Size(100, 20);
             this.tbData2.TabIndex = 4;
