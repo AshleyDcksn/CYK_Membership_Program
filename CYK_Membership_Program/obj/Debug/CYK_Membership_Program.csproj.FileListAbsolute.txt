@@ -1,0 +1,9 @@
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\bin\Debug\CYK_Membership_Program.exe.config
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\bin\Debug\CYK_Membership_Program.exe
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\bin\Debug\CYK_Membership_Program.pdb
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\obj\Debug\CYK_Membership_Program.csprojResolveAssemblyReference.cache
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\obj\Debug\CYK_Membership_Program.Form1.resources
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\obj\Debug\CYK_Membership_Program.Properties.Resources.resources
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\obj\Debug\CYK_Membership_Program.csproj.GenerateResource.Cache
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\obj\Debug\CYK_Membership_Program.exe
+c:\users\ashley\documents\visual studio 2013\Projects\CYK_Membership_Program\CYK_Membership_Program\obj\Debug\CYK_Membership_Program.pdb
