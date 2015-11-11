@@ -83,6 +83,7 @@
             this.tbVar1.Name = "tbVar1";
             this.tbVar1.Size = new System.Drawing.Size(29, 20);
             this.tbVar1.TabIndex = 1;
+            this.tbVar1.Text = "S";
             // 
             // tbVar5
             // 
@@ -99,6 +100,7 @@
             this.tbVar4.Name = "tbVar4";
             this.tbVar4.Size = new System.Drawing.Size(29, 20);
             this.tbVar4.TabIndex = 7;
+            this.tbVar4.Text = "C";
             // 
             // tbVar3
             // 
@@ -107,6 +109,7 @@
             this.tbVar3.Name = "tbVar3";
             this.tbVar3.Size = new System.Drawing.Size(29, 20);
             this.tbVar3.TabIndex = 5;
+            this.tbVar3.Text = "B";
             // 
             // tbVar2
             // 
@@ -115,6 +118,7 @@
             this.tbVar2.Name = "tbVar2";
             this.tbVar2.Size = new System.Drawing.Size(29, 20);
             this.tbVar2.TabIndex = 3;
+            this.tbVar2.Text = "A";
             // 
             // tbData1
             // 
@@ -123,6 +127,7 @@
             this.tbData1.Name = "tbData1";
             this.tbData1.Size = new System.Drawing.Size(100, 20);
             this.tbData1.TabIndex = 2;
+            this.tbData1.Text = "AB | BC";
             // 
             // tbData3
             // 
@@ -131,6 +136,7 @@
             this.tbData3.Name = "tbData3";
             this.tbData3.Size = new System.Drawing.Size(100, 20);
             this.tbData3.TabIndex = 6;
+            this.tbData3.Text = "CC | b";
             // 
             // tbData4
             // 
@@ -139,6 +145,7 @@
             this.tbData4.Name = "tbData4";
             this.tbData4.Size = new System.Drawing.Size(100, 20);
             this.tbData4.TabIndex = 8;
+            this.tbData4.Text = "AB | a";
             // 
             // tbData5
             // 
@@ -155,6 +162,7 @@
             this.tbData2.Name = "tbData2";
             this.tbData2.Size = new System.Drawing.Size(100, 20);
             this.tbData2.TabIndex = 4;
+            this.tbData2.Text = "BA | a";
             // 
             // label1
             // 
@@ -223,6 +231,7 @@
             this.tbWord.Name = "tbWord";
             this.tbWord.Size = new System.Drawing.Size(202, 20);
             this.tbWord.TabIndex = 17;
+            this.tbWord.Text = "baaba";
             // 
             // btnGo
             // 
