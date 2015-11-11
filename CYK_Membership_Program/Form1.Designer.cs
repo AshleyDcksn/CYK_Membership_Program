@@ -243,6 +243,7 @@
             this.X11.Size = new System.Drawing.Size(26, 13);
             this.X11.TabIndex = 19;
             this.X11.Text = "X11";
+            this.X11.Visible = false;
             // 
             // X22
             // 
@@ -252,6 +253,7 @@
             this.X22.Size = new System.Drawing.Size(26, 13);
             this.X22.TabIndex = 20;
             this.X22.Text = "X22";
+            this.X22.Visible = false;
             // 
             // X33
             // 
@@ -261,6 +263,7 @@
             this.X33.Size = new System.Drawing.Size(26, 13);
             this.X33.TabIndex = 21;
             this.X33.Text = "X33";
+            this.X33.Visible = false;
             // 
             // X44
             // 
@@ -270,6 +273,7 @@
             this.X44.Size = new System.Drawing.Size(26, 13);
             this.X44.TabIndex = 22;
             this.X44.Text = "X44";
+            this.X44.Visible = false;
             // 
             // X55
             // 
@@ -279,6 +283,7 @@
             this.X55.Size = new System.Drawing.Size(26, 13);
             this.X55.TabIndex = 23;
             this.X55.Text = "X55";
+            this.X55.Visible = false;
             // 
             // X12
             // 
@@ -288,6 +293,7 @@
             this.X12.Size = new System.Drawing.Size(26, 13);
             this.X12.TabIndex = 24;
             this.X12.Text = "X12";
+            this.X12.Visible = false;
             // 
             // X23
             // 
@@ -297,6 +303,7 @@
             this.X23.Size = new System.Drawing.Size(26, 13);
             this.X23.TabIndex = 25;
             this.X23.Text = "X23";
+            this.X23.Visible = false;
             // 
             // X34
             // 
@@ -306,6 +313,7 @@
             this.X34.Size = new System.Drawing.Size(26, 13);
             this.X34.TabIndex = 26;
             this.X34.Text = "X34";
+            this.X34.Visible = false;
             // 
             // X45
             // 
@@ -315,6 +323,7 @@
             this.X45.Size = new System.Drawing.Size(26, 13);
             this.X45.TabIndex = 27;
             this.X45.Text = "X45";
+            this.X45.Visible = false;
             // 
             // X13
             // 
@@ -324,6 +333,7 @@
             this.X13.Size = new System.Drawing.Size(26, 13);
             this.X13.TabIndex = 28;
             this.X13.Text = "X13";
+            this.X13.Visible = false;
             // 
             // X24
             // 
@@ -333,6 +343,7 @@
             this.X24.Size = new System.Drawing.Size(26, 13);
             this.X24.TabIndex = 29;
             this.X24.Text = "X24";
+            this.X24.Visible = false;
             // 
             // X35
             // 
@@ -342,6 +353,7 @@
             this.X35.Size = new System.Drawing.Size(26, 13);
             this.X35.TabIndex = 30;
             this.X35.Text = "X35";
+            this.X35.Visible = false;
             // 
             // X15
             // 
@@ -351,6 +363,7 @@
             this.X15.Size = new System.Drawing.Size(26, 13);
             this.X15.TabIndex = 31;
             this.X15.Text = "X15";
+            this.X15.Visible = false;
             // 
             // X14
             // 
@@ -360,6 +373,7 @@
             this.X14.Size = new System.Drawing.Size(26, 13);
             this.X14.TabIndex = 32;
             this.X14.Text = "X14";
+            this.X14.Visible = false;
             // 
             // X25
             // 
@@ -369,6 +383,7 @@
             this.X25.Size = new System.Drawing.Size(26, 13);
             this.X25.TabIndex = 33;
             this.X25.Text = "X25";
+            this.X25.Visible = false;
             // 
             // label22
             // 

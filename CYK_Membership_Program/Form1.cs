@@ -36,9 +36,12 @@ namespace CYK_Membership_Program
 
         private void button1_Click(object sender, EventArgs e)
         {
+            dict.Clear();
             lblResults.Text = "Calculating Results...";
             //Add input data to dictionary
             add_input_to_dictionary(sender, e);
+            //Perform CYK algorithm
+            cyk_Algorithm(sender, e);
                 
             
         }
@@ -74,8 +77,85 @@ namespace CYK_Membership_Program
                 //textBox3.Text += ("Key = {0}, Value = {1}", kvp.Key, kvp.Value);
                 Console.WriteLine("Key = {0}, Value = {1}", kvp.Key, kvp.Value);
             }
+        }
+        private void cyk_Algorithm(object sender, EventArgs e)
+        { 
+            //Determine word length
+            int word_length = tbWord.TextLength;
+            Console.WriteLine(word_length);
+            if(word_length < 1)
+            {
+                MessageBox.Show("Please enter a word to test for membership\n");
+                return;
+            }
+            else
+            {
+                init_table(sender, word_length);
+            }
+            fill_in_row_2(sender, word_length);
+
+           
         
+        }
+        private void init_table(object sender, int word_length)
+        {
+            if (word_length == 5)
+            {
+                
+                X11.Text = "X11 = ";
+                X22.Text = "X22 = ";
+                X33.Text = "X33 = ";
+                X44.Text = "X44 = ";
+                X55.Text = "X55 = ";
+                //Search through the dictionary for each letter.     
+                foreach (KeyValuePair<string, string> kvp in dict)
+                {
+                    if (kvp.Value.Contains(tbWord.Text.ToString().Substring(0, 1)))
+                    {
+                        X11.Text += kvp.Key;    
+                    }
+                    if (kvp.Value.Contains(tbWord.Text.ToString().Substring(1, 1)))
+                    {
+                        X22.Text += kvp.Key;
+                    }
+                    if (kvp.Value.Contains(tbWord.Text.ToString().Substring(2, 1)))
+                    {
+                        X33.Text += kvp.Key;
+                    }
+                    if (kvp.Value.Contains(tbWord.Text.ToString().Substring(3, 1)))
+                    {
+                        X44.Text += kvp.Key;
+                    }
+                    if (kvp.Value.Contains(tbWord.Text.ToString().Substring(4, 1)))
+                    {
+                        X55.Text += kvp.Key;
+                    }
+                   
+                }
+                X11.Visible = true;
+                X22.Visible = true;
+                X33.Visible = true;
+                X44.Visible = true;
+                X55.Visible = true;
+            }
+            else if (word_length == 4)
+            {
+                
+            }
+            else if (word_length == 3)
+            {
+                
+            }
+            
         
+        }
+        private void fill_in_row_2(object sender, int word_length)
+        {
+            if (word_length == 5)
+            { 
+                
+            
+            }
         }
   
 
