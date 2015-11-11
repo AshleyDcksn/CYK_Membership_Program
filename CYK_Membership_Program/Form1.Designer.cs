@@ -63,7 +63,7 @@
             this.X14 = new System.Windows.Forms.Label();
             this.X25 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
+            this.lblResults = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // title_lbl
@@ -240,135 +240,135 @@
             this.X11.AutoSize = true;
             this.X11.Location = new System.Drawing.Point(486, 287);
             this.X11.Name = "X11";
-            this.X11.Size = new System.Drawing.Size(35, 13);
+            this.X11.Size = new System.Drawing.Size(26, 13);
             this.X11.TabIndex = 19;
-            this.X11.Text = "label7";
+            this.X11.Text = "X11";
             // 
             // X22
             // 
             this.X22.AutoSize = true;
             this.X22.Location = new System.Drawing.Point(554, 287);
             this.X22.Name = "X22";
-            this.X22.Size = new System.Drawing.Size(35, 13);
+            this.X22.Size = new System.Drawing.Size(26, 13);
             this.X22.TabIndex = 20;
-            this.X22.Text = "label8";
+            this.X22.Text = "X22";
             // 
             // X33
             // 
             this.X33.AutoSize = true;
             this.X33.Location = new System.Drawing.Point(626, 287);
             this.X33.Name = "X33";
-            this.X33.Size = new System.Drawing.Size(35, 13);
+            this.X33.Size = new System.Drawing.Size(26, 13);
             this.X33.TabIndex = 21;
-            this.X33.Text = "label9";
+            this.X33.Text = "X33";
             // 
             // X44
             // 
             this.X44.AutoSize = true;
             this.X44.Location = new System.Drawing.Point(695, 287);
             this.X44.Name = "X44";
-            this.X44.Size = new System.Drawing.Size(41, 13);
+            this.X44.Size = new System.Drawing.Size(26, 13);
             this.X44.TabIndex = 22;
-            this.X44.Text = "label10";
+            this.X44.Text = "X44";
             // 
             // X55
             // 
             this.X55.AutoSize = true;
             this.X55.Location = new System.Drawing.Point(768, 287);
             this.X55.Name = "X55";
-            this.X55.Size = new System.Drawing.Size(41, 13);
+            this.X55.Size = new System.Drawing.Size(26, 13);
             this.X55.TabIndex = 23;
-            this.X55.Text = "label11";
+            this.X55.Text = "X55";
             // 
             // X12
             // 
             this.X12.AutoSize = true;
             this.X12.Location = new System.Drawing.Point(486, 240);
             this.X12.Name = "X12";
-            this.X12.Size = new System.Drawing.Size(41, 13);
+            this.X12.Size = new System.Drawing.Size(26, 13);
             this.X12.TabIndex = 24;
-            this.X12.Text = "label12";
+            this.X12.Text = "X12";
             // 
             // X23
             // 
             this.X23.AutoSize = true;
             this.X23.Location = new System.Drawing.Point(554, 240);
             this.X23.Name = "X23";
-            this.X23.Size = new System.Drawing.Size(41, 13);
+            this.X23.Size = new System.Drawing.Size(26, 13);
             this.X23.TabIndex = 25;
-            this.X23.Text = "label13";
+            this.X23.Text = "X23";
             // 
             // X34
             // 
             this.X34.AutoSize = true;
             this.X34.Location = new System.Drawing.Point(626, 240);
             this.X34.Name = "X34";
-            this.X34.Size = new System.Drawing.Size(41, 13);
+            this.X34.Size = new System.Drawing.Size(26, 13);
             this.X34.TabIndex = 26;
-            this.X34.Text = "label14";
+            this.X34.Text = "X34";
             // 
             // X45
             // 
             this.X45.AutoSize = true;
             this.X45.Location = new System.Drawing.Point(695, 240);
             this.X45.Name = "X45";
-            this.X45.Size = new System.Drawing.Size(41, 13);
+            this.X45.Size = new System.Drawing.Size(26, 13);
             this.X45.TabIndex = 27;
-            this.X45.Text = "label15";
+            this.X45.Text = "X45";
             // 
             // X13
             // 
             this.X13.AutoSize = true;
             this.X13.Location = new System.Drawing.Point(486, 203);
             this.X13.Name = "X13";
-            this.X13.Size = new System.Drawing.Size(41, 13);
+            this.X13.Size = new System.Drawing.Size(26, 13);
             this.X13.TabIndex = 28;
-            this.X13.Text = "label16";
+            this.X13.Text = "X13";
             // 
             // X24
             // 
             this.X24.AutoSize = true;
             this.X24.Location = new System.Drawing.Point(554, 203);
             this.X24.Name = "X24";
-            this.X24.Size = new System.Drawing.Size(41, 13);
+            this.X24.Size = new System.Drawing.Size(26, 13);
             this.X24.TabIndex = 29;
-            this.X24.Text = "label17";
+            this.X24.Text = "X24";
             // 
             // X35
             // 
             this.X35.AutoSize = true;
             this.X35.Location = new System.Drawing.Point(626, 203);
             this.X35.Name = "X35";
-            this.X35.Size = new System.Drawing.Size(41, 13);
+            this.X35.Size = new System.Drawing.Size(26, 13);
             this.X35.TabIndex = 30;
-            this.X35.Text = "label18";
+            this.X35.Text = "X35";
             // 
             // X15
             // 
             this.X15.AutoSize = true;
             this.X15.Location = new System.Drawing.Point(486, 125);
             this.X15.Name = "X15";
-            this.X15.Size = new System.Drawing.Size(41, 13);
+            this.X15.Size = new System.Drawing.Size(26, 13);
             this.X15.TabIndex = 31;
-            this.X15.Text = "label19";
+            this.X15.Text = "X15";
             // 
             // X14
             // 
             this.X14.AutoSize = true;
             this.X14.Location = new System.Drawing.Point(486, 166);
             this.X14.Name = "X14";
-            this.X14.Size = new System.Drawing.Size(41, 13);
+            this.X14.Size = new System.Drawing.Size(26, 13);
             this.X14.TabIndex = 32;
-            this.X14.Text = "label20";
+            this.X14.Text = "X14";
             // 
             // X25
             // 
             this.X25.AutoSize = true;
             this.X25.Location = new System.Drawing.Point(554, 166);
             this.X25.Name = "X25";
-            this.X25.Size = new System.Drawing.Size(41, 13);
+            this.X25.Size = new System.Drawing.Size(26, 13);
             this.X25.TabIndex = 33;
-            this.X25.Text = "label21";
+            this.X25.Text = "X25";
             // 
             // label22
             // 
@@ -380,20 +380,19 @@
             this.label22.TabIndex = 34;
             this.label22.Text = "Results:";
             // 
-            // label23
+            // lblResults
             // 
-            this.label23.AutoSize = true;
-            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(486, 63);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(253, 17);
-            this.label23.TabIndex = 35;
-            this.label23.Text = "The word is a member of this language";
+            this.lblResults.AutoSize = true;
+            this.lblResults.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResults.Location = new System.Drawing.Point(486, 63);
+            this.lblResults.Name = "lblResults";
+            this.lblResults.Size = new System.Drawing.Size(0, 17);
+            this.lblResults.TabIndex = 35;
             // 
             // Form1
             // 
             this.ClientSize = new System.Drawing.Size(821, 361);
-            this.Controls.Add(this.label23);
+            this.Controls.Add(this.lblResults);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.X25);
             this.Controls.Add(this.X14);
@@ -473,7 +472,7 @@
         private System.Windows.Forms.Label X14;
         private System.Windows.Forms.Label X25;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Label lblResults;
 
         
     }
